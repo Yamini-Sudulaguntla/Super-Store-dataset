@@ -22,7 +22,7 @@ Power BI · DAX · Power Query · SQL
 - Sub-categories with the steepest discounts (~30-40%) clustered toward the lowest profit points — discounting is visibly eating into margin
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](dashboard-overview.png) 
 
 ## File
 `dashboard/superstore-dashboard.pbix` — open in Power BI Desktop to explore
